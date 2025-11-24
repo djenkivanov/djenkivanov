@@ -6,7 +6,7 @@ https://djenkpiano.github.io/
 
 ## 📘 My Library
 
-<div style="max-height: 380px; overflow-y: auto; border: 1px solid #444; padding: 10px; border-radius: 6px;">
+<div style="max-height: 150px; overflow-y: scroll;">
 
 <table>
 <thead>
