@@ -1,7 +1,8 @@
-## Welcome!
+## Hey!
+Have a look around my repos, I have a lot of interesting projects!
 
-I'll add some more things here in the future, for now you can check out my piano progression!
-https://djenkpiano.github.io/ 📖 150/350 pages
+Tired of programming? Check out my piano progression!
+https://djenkpiano.github.io/
 
 ## 📘 My Library
 
