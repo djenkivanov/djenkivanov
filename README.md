@@ -8,6 +8,7 @@ https://djenkpiano.github.io/
 
 | Cover | Title | Status |
 |-------|--------|--------|
+| <img src="https://www.oreilly.com/covers/urn:orm:book:9781098176495/400w/" width="70"/> | Building Applications with AI Agents - Michael Albada | 📖 Currently reading... |
 | <img src="https://www.oreilly.com/covers/urn:orm:book:9781098166298/400w/" width="70"/> | AI Engineering - Chip Huyen | ✔️ Finished |
 | <img src="https://www.oreilly.com/covers/urn:orm:book:9781098103002/160h/?format=webp" width="70"/> | Practical MLOps - Noah Gift, Alfredo Deza | ✔️ Finished |
 | <img src="https://www.oreilly.com/covers/urn:orm:book:9781098107956/400w/" width="70"/> | Designing Machine Learning Systems - Chip Huyen | ✔️ Finished |
