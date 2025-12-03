@@ -1,4 +1,4 @@
-## Hey!
+## Welcome!
 Have a look around my repos, I have a lot of interesting projects!
 
 Tired of programming? Check out my piano progression!
