@@ -7,9 +7,10 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098176495/400w/" width="70"/>](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
+(Nothing at the moment, deciding on next book)
 
 ### ✔️ Finished
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098176495/400w/" width="70"/>](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098166298/400w/" width="70"/>](https://learning.oreilly.com/library/view/-/9781098166298/)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098103002/160h/?format=webp" width="70"/>](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098107956/400w/" width="70"/>](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
