@@ -7,7 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://m.media-amazon.com/images/I/41hsdRMfdfL._SX342_SY445_FMwebp_.jpg)
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 [<img src="https://m.media-amazon.com/images/I/41hsdRMfdfL._SX342_SY445_FMwebp_.jpg" height="100"/>](https://www.amazon.com/Hands-System-Programming-performant-concurrent/dp/1789137888)
 ### ✔️ Finished
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098125967/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
