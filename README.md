@@ -7,6 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
+[<img src="https://m.media-amazon.com/images/I/710G+Oq+bsL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Engineering-Bible-Up-Date-Production-ebook/dp/B0F4KZJN6Z/ref=tmm_kin_swatch_0#detailBullets_feature_div)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 [<img src="https://m.media-amazon.com/images/I/61ZU3FLxTcL._SL1181_.jpg" height="100"/>](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654)
 ### ✔️ Finished
