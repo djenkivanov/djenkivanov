@@ -7,10 +7,9 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
-[<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
-[<img src="https://m.media-amazon.com/images/I/61ZU3FLxTcL._SL1181_.jpg" height="100"/>](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654)
+*...it sure is empty here...*
 ### ✔️ Finished
+[<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
 [<img src="https://m.media-amazon.com/images/I/710G+Oq+bsL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Engineering-Bible-Up-Date-Production-ebook/dp/B0F4KZJN6Z/ref=tmm_kin_swatch_0#detailBullets_feature_div)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098125967/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098176495/400w/" height="100"/>](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
@@ -22,4 +21,6 @@ https://djenkpiano.github.io/
 [<img src="https://d2l.ai/_images/front-cup.jpg" height="100"/>](https://d2l.ai/)
 
 ### 📖 Stopped reading
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) 914/1472p
+[<img src="https://m.media-amazon.com/images/I/61ZU3FLxTcL._SL1181_.jpg" height="100"/>](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654) 297/788p
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098150952/400w/" height="100"/>](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) 150/600p
