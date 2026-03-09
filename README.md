@@ -7,7 +7,8 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-*...it sure is empty here...*
+[<img src="https://m.media-amazon.com/images/I/71CnRJGywrL._SL1500_.jpg" height="100"/>](https://www.amazon.com/dp/B0DWNH8BJ4/ref=mes-dp?_encoding=UTF8)
+
 ### ✔️ Finished
 [<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
 [<img src="https://m.media-amazon.com/images/I/710G+Oq+bsL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Engineering-Bible-Up-Date-Production-ebook/dp/B0F4KZJN6Z/ref=tmm_kin_swatch_0#detailBullets_feature_div)
