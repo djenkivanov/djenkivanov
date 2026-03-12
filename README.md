@@ -7,7 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://m.media-amazon.com/images/I/71CnRJGywrL._SL1500_.jpg" height="100"/>](https://www.amazon.com/dp/B0DWNH8BJ4/ref=mes-dp?_encoding=UTF8)
+*...whooooosh...*
 
 ### ✔️ Finished
 [<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
@@ -22,6 +22,7 @@ https://djenkpiano.github.io/
 [<img src="https://d2l.ai/_images/front-cup.jpg" height="100"/>](https://d2l.ai/)
 
 ### 📖 Stopped reading
+[<img src="https://m.media-amazon.com/images/I/71CnRJGywrL._SL1500_.jpg" height="100"/>](https://www.amazon.com/dp/B0DWNH8BJ4/ref=mes-dp?_encoding=UTF8)  200/348p
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9798341607972/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) 914/1472p
 [<img src="https://m.media-amazon.com/images/I/61ZU3FLxTcL._SL1181_.jpg" height="100"/>](https://www.amazon.com/Beginning-C-17-Novice-Professional/dp/1484233654) 297/788p
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098150952/400w/" height="100"/>](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) 150/600p
