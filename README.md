@@ -7,7 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-*...whooooosh...*
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098104023/300w/" height="100"/>](https://www.oreilly.com/library/view/python-for-data/9781098104023/)
 
 ### ✔️ Finished
 [<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
