@@ -7,9 +7,10 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098104023/300w/" height="100"/>](https://www.oreilly.com/library/view/python-for-data/9781098104023/)
+*...whoooooosh...*
 
 ### ✔️ Finished
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098104023/300w/" height="100"/>](https://www.oreilly.com/library/view/python-for-data/9781098104023/)
 [<img src="https://m.media-amazon.com/images/I/81zgb5+UknL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC)
 [<img src="https://m.media-amazon.com/images/I/710G+Oq+bsL._SL1500_.jpg" height="100"/>](https://www.amazon.com/Engineering-Bible-Up-Date-Production-ebook/dp/B0F4KZJN6Z/ref=tmm_kin_swatch_0#detailBullets_feature_div)
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098125967/160h/?format=webp" height="100"/>](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
