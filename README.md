@@ -7,7 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-*...whoooooosh...*
+[<img src="https://www.oreilly.com/covers/urn:orm:book:9781835083208/300w/" height="100"/>](https://www.oreilly.com/library/view/the-kaggle-book/9781835083208/)
 
 ### ✔️ Finished
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098104023/300w/" height="100"/>](https://www.oreilly.com/library/view/python-for-data/9781098104023/)
