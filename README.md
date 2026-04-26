@@ -7,7 +7,7 @@ https://djenkpiano.github.io/
 ## 📘 My Library
 
 ### 📖 Currently reading...
-[<img src="https://www.oreilly.com/covers/urn:orm:book:9781098136789/300w/" height="100"/>](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
+*...whoooooosh...*
 
 ### ✔️ Finished
 [<img src="https://www.oreilly.com/covers/urn:orm:book:9781098104023/300w/" height="100"/>](https://www.oreilly.com/library/view/python-for-data/9781098104023/)
